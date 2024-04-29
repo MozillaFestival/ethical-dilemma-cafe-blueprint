@@ -1,3 +1,5 @@
+<img src="/assets/EDC-logo-flat.png" alt="The Ethical Dilemma Cafe header logo" width="50%" height="auto">
+
 # What is the Ethical Dilemma Café?
 
 The Ethical Dilemma Café is a public space where  individuals are invited to take part in  installations, participate in discussions, and attend workshops that explore the pressing ethical issues surrounding the use of personal data today.
