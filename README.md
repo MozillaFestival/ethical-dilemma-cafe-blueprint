@@ -1,4 +1,4 @@
-<img src="/assets/EDC-logo-flat.png" alt="The Ethical Dilemma Cafe header logo" width="50%" height="auto">
+<img src="assets/EDC-logo-flat.png" alt="The Ethical Dilemma Cafe header logo" width="50%" height="auto">
 
 # What is the Ethical Dilemma Café?
 
@@ -85,9 +85,9 @@ To learn more about participatory design, visit the Creating Participatory Event
 7. **Say what you need.** We’ve found participants are often willing to help but to do so, they need to know what you need. Whether it’s bringing some supplies with them or more substantial tasks, clear communication helps everyone contribute effectively.
 8. **Communicate and share**. Feel free to use blogs, emails, and documentation to reach as broad of an audience as possible. Remember to keep local people and communities in the loop too.
 9. **Download the logo.** The Ethical Dilemma Café logo is available for use by anyone running an event under a CC-ND licence. For self-supported events, you are also free to use your own branding. For all supported events, the Ethical Dilemma Café logo must be used. There are more details about the tiers of support below.
-10. **Need or interested in support?** Have a look at [our levels of support](/support-levels.md) for future Ethical Dilemma Café on the separate page.
+10. **Need or interested in support?** Have a look at [our levels of support](support-levels.md) for future Ethical Dilemma Café on the separate page.
 
-More questions? It might be answered in the updated [Frequently Answered Questions page](/faq.md).
+More questions? It might be answered in the updated [Frequently Answered Questions page](faq.md).
 
 ![Ethical Dilemma Café, The Victoria & Albert (V&A) Museum London 2022](images/EDC-image5.jpg)
 
