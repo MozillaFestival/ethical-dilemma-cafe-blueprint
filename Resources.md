@@ -28,3 +28,5 @@ For more insight on how to host accessible, interactive and inclusive sessions, 
 * Key takeaways from the Café | [Read here](https://foundation.mozilla.org/blog/ethical-dilemmna-Café-2022/)
 * A recap from an attendee | [Read here](https://foundation.mozilla.org/blog/ethical-dilemma-Café-kicks-off-community-ethics-in-tech-project/)
 * A recap of the Café | [Read here](https://cubicgarden.com/2022/05/08/mozilla-bbc-ethical-dilemma-Café-manchester/)
+
+![Ethical Dilemma Café, The Victoria & Albert (V&A) Museum London 2022](images/EDC-image10.jpg)
