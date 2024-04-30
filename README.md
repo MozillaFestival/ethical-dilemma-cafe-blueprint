@@ -28,6 +28,8 @@ In 2022, the Ethical Dilemma Café showed people how their data reflects their i
 
 The Ethical Dilemma Café has always been a magnet for the public, as it creates an ideal environment for discussions and engagements about the relationship between technology and our daily lives. As we continue to navigate this evolving dynamic, we intend to further experiment with the structure that makes the Ethical Dilemma Café such a successful catalyst for critical thought.
 
+![Ethical Dilemma Café, Mozilla Festival 2014](images/EDC-image3.jpg)
+
 
 
 ## Ethical Dilemma Café Framework
@@ -41,6 +43,8 @@ Each Ethical Dilemma Café is typically composed of several key segments. While 
 * Discussions are optional. Talks are another great format of sharing enriching, appropriate content. They usually feature insights from relevant experts who can provide insight into the real-world value of data.
 
 * Workshops are also optional. They enable participants to collectively engage with and explore the value and significance of their data together.
+
+![Ethical Dilemma Café, Manchester 2022](images/EDC-image2.jpg)
 
 
 ## Program Structure
@@ -65,6 +69,11 @@ The facilitation of these sessions is paramount – accessible formatting with a
 
 To learn more about participatory design, visit the Creating Participatory Events section in the [How To MozFest Book](https://book.mozillafestival.org/creating-participatory-events).
 
+![Ethical Dilemma Café, Manchester 2022](images/EDC-image4.jpg)
+
+![Ethical Dilemma Café, MozFest House Amsterdam 2023](images/EDC-image9.jpg)
+
+
 ## To Get Started
 
 1. **Define your dilemma.** Be deliberate in how your Ethical Dilemma Café is responding to the needs of your local community. What are the issues they’re currently facing? Where are the opportunities to build and challenge? 
@@ -76,6 +85,12 @@ To learn more about participatory design, visit the Creating Participatory Event
 7. **Say what you need.** We’ve found participants are often willing to help but to do so, they need to know what you need. Whether it’s bringing some supplies with them or more substantial tasks, clear communication helps everyone contribute effectively.
 Communicate and share. Feel free to use blogs, emails, and documentation to reach as broad of an audience as possible. Remember to keep local people and communities in the loop too.
 8. **Download the logo.** The Ethical Dilemma Café logo is available for use by anyone running an event under a CC-ND licence. For self-supported events, you are also free to use your own branding. For all supported events, the Ethical Dilemma Café logo must be used. There are more details about the tiers of support below.
+
+
+![Ethical Dilemma Café, The Victoria & Albert (V&A) Museum London 2022](images/EDC-image5.jpg)
+
+![Ethical Dilemma Café, Manchester 2022](images/EDC-image7.jpg)
+
 
 ### Tiers of Support 
 
@@ -114,5 +129,7 @@ Mozilla and the BBC can also provide additional assistance with the following*:
   * Communication support as part of the wider Mozilla Festival event
 
 *Additional support from Mozilla is only available on a paid, consultation basis.
+
+![Ethical Dilemma Café, Manchester 2022](images/EDC-image6.jpg)
 
 **Details of partnership roles and responsibilities will be further outlined during negotiations.
