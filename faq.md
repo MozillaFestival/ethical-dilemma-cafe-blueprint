@@ -1,4 +1,4 @@
-<img src="/assets/EDC-logo-flat.png" alt="The Ethical Dilemma Cafe header logo" width="50%" height="auto">
+<img src="assets/EDC-logo-flat.png" alt="The Ethical Dilemma Cafe header logo" width="50%" height="auto">
 
 # Frequently Asked Questions (FAQ’s)
 
