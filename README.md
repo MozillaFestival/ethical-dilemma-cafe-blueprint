@@ -83,12 +83,12 @@ To learn more about participatory design, visit the Creating Participatory Event
 5. **Design for all learning styles.** Provide installations that cater towards different modes of engagement and various levels of familiarity of your topic – from novice to expert– as a way to encourage people to learn and get involved in different ways.
 6. **Embrace Imperfection.** Allow space for people to interact with your Café installations and dilemma, evolve with your event and learn from the space. The goal isn’t perfection, it’s adaptability and understanding.
 7. **Say what you need.** We’ve found participants are often willing to help but to do so, they need to know what you need. Whether it’s bringing some supplies with them or more substantial tasks, clear communication helps everyone contribute effectively.
-Communicate and share. Feel free to use blogs, emails, and documentation to reach as broad of an audience as possible. Remember to keep local people and communities in the loop too.
-8. **Download the logo.** The Ethical Dilemma Café logo is available for use by anyone running an event under a CC-ND licence. For self-supported events, you are also free to use your own branding. For all supported events, the Ethical Dilemma Café logo must be used. There are more details about the tiers of support below.
+8. **Communicate and share**. Feel free to use blogs, emails, and documentation to reach as broad of an audience as possible. Remember to keep local people and communities in the loop too.
+9. **Download the logo.** The Ethical Dilemma Café logo is available for use by anyone running an event under a CC-ND licence. For self-supported events, you are also free to use your own branding. For all supported events, the Ethical Dilemma Café logo must be used. There are more details about the tiers of support below.
+10. **Need or interested in support?** Have a look at our levels of support for future Ethical Dilemma Café on the separate page.
 
+More questions? It might be answered in the updated Frequently Answered Questions page.
 
 ![Ethical Dilemma Café, The Victoria & Albert (V&A) Museum London 2022](images/EDC-image5.jpg)
 
 ![Ethical Dilemma Café, Manchester 2022](images/EDC-image7.jpg)
-
-![Ethical Dilemma Café, Manchester 2022](images/EDC-image6.jpg)
