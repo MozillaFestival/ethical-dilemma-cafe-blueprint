@@ -39,3 +39,6 @@ Mozilla and the BBC can also provide additional assistance with the following*:
 *Additional support from Mozilla is only available on a paid, consultation basis.
 
 **Details of partnership roles and responsibilities will be further outlined during negotiations.
+
+
+![Ethical Dilemma Café, Manchester 2022](images/EDC-image6.jpg)
