@@ -92,16 +92,16 @@ Communicate and share. Feel free to use blogs, emails, and documentation to reac
 ![Ethical Dilemma Café, Manchester 2022](images/EDC-image7.jpg)
 
 
-### Tiers of Support 
+## Tiers of Support 
 
-#### Tier 1: Self-support
+### Tier 1: Self-support
 **Organise your own event independently using our detailed blueprint above without direct support from Mozilla and/or BBC Research & Development. The blueprint includes:**
 * Guidance on core values and guidelines
 * Participation guidelines
 * Project schedule template
 * List of supplies and considerations checklist
 
-#### Tier 2: Basic Support
+### Tier 2: Basic Support
 **Receive up to three hours consultation from Mozilla and/or BBC R&D alongside general support during the design and pre-production process. In total this tier includes:**
 * All materials provided in the self-support tier
 * An initial 1-hour consultation with a representative from Mozilla & BBC R&D providing  contextual support, venue advice and fundraising guidance (Note: funding is not provided).
@@ -115,7 +115,7 @@ Mozilla and the BBC can also provide additional assistance with the following*:
 * Advice on hosting workshops
 * Installations ideas
 
-#### Tier 3: Full Support
+### Tier 3: Full Support
 **For events partnered with Mozilla Festival, Mozilla and BBC Research & Development, we will co-produce the Café, providing you with:**
 
 * All materials provided in the basic support tier
